@@ -89,3 +89,6 @@ changeTheme.addEventListener("input", () => {
     Heading.style.backgroundColor = changeTheme.value;
     Circle.style.backgroundColor = changeTheme.value;
 });
+
+
+// Made by Cj_Sumit
